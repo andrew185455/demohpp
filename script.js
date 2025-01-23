@@ -1,6 +1,6 @@
 document.getElementById('payNowButton').addEventListener('click', function() {
     // Define the API URL and authentication credentials
-    const apiUrl = 'https://cors-anywhere.herokuapp.com/https://cst.test-gsc.vfims.com/oidc/checkout-service/v2/checkout';
+    const apiUrl = 'https://cst.test-gsc.vfims.com/oidc/checkout-service/v2/checkout';
     const username = 'e14c61c2-d4bb-44ed-a413-1e9f4f9d5bb8'; // Replace with your actual username
     const password = 'zEekpiUXQEpEUTlLVopmWBoFONAzVpXZZOOP'; // Replace with your actual password
 
