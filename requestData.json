@@ -38,7 +38,7 @@
            
         }
     },
-    "return_url":"https://demohpp.netlify.app/",
+    "return_url":"https://verifone-hpp.netlify.app/",
     "merchant_reference": "1",
     "interaction_type": "HPP" 
 }
